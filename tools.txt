@@ -1,0 +1,8 @@
+figlet
+subfinder
+amass
+httprobe
+waybackurls
+gau
+gospider
+meg
